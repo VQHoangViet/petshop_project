@@ -1,2 +1,0 @@
-print("Quang Huy")
-print()
